@@ -14,3 +14,4 @@ this repository present the diffents tools I use on windows workstation :
 * k9s
 * bat
 * glow
+* jq
